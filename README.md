@@ -5,3 +5,6 @@ In this project, the basic concepts of statistics and probability are discussed.
 If you would find any mistakes for this project, please feel free to warn me.
 
 Learn and enjoy..
+
+
+Note : This project is still ongoing..
