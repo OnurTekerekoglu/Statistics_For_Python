@@ -1,4 +1,4 @@
-# Statistics-for-Data-Science
+# Statistics-for-Python
 
 In this project, the basic concepts of statistics and probability are discussed. The informations and codes are taken from various sources and lessons which have been taken. This project is also simply to deal with statistics and probability methods, which are widely used in the data science and finance industries.
 
